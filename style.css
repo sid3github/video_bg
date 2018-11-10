@@ -80,3 +80,7 @@ body{
         padding-right: 3.5rem;
     }
 }
+
+.section-b{
+    border: 2px solid grey;
+}
